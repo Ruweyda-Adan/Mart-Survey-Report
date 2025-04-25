@@ -40,7 +40,7 @@ Standardized product names and customer ratings
 
 Removed duplicates and prepared structured data for SQL import
 
-## Chapter 2: Survey Data Analysis Queries (MySQL Workbench)
+## Chapter 3 Survey Data Analysis Queries (MySQL Workbench)
 Performed key analytical queries such as:
 
 Total spending per product category
@@ -57,10 +57,10 @@ Key SQL Concepts Used:
 
 SELECT, GROUP BY, COUNT, ORDER BY, JOIN, and SUM
 
-## Chapter 3: Interactive Dashboard (Excel)
+## Chapter 4 Interactive Dashboard (Excel)
 In this chapter, I focused on creating an interactive and visually engaging dashboard that would allow for a comprehensive and insightful analysis of the survey data. Using Excel, I was able to present the data in a way that allowed key trends, patterns, and findings to be easily accessible and interpretable. Excel's built-in tools for data visualization, such as pivot tables, charts, and slicers, enabled me to create a user-friendly and dynamic dashboard that facilitated quick insights into customer behavior and responses.
 
-## Chapter 3: Survey Findings
+## Chapter 5 Survey Findings
 ## Key Insights:
 
 Highest and Lowest Ratings by Age Group:
